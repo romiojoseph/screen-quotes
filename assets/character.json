@@ -1,0 +1,176 @@
+{
+    "images": {
+        "Michael Scott": {
+            "image": "assets/characters/michael.avif",
+            "alias": "@prison-mike"
+        },
+        "Dwight Schrute": {
+            "image": "assets/characters/dwight.avif",
+            "alias": "@learngerman"
+        },
+        "Pam Beesly": {
+            "image": "assets/characters/pam.avif",
+            "alias": "@pamcasso"
+        },
+        "Jim Halpert": {
+            "image": "assets/characters/jim.avif",
+            "alias": "@jimothy"
+        },
+        "Kelly Kapoor": {
+            "image": "assets/characters/kelly.avif",
+            "alias": "@ilovedrama"
+        },
+        "Angela Martin": {
+            "image": "assets/characters/angela.avif",
+            "alias": "@senator"
+        },
+        "Oscar Martinez": {
+            "image": "assets/characters/oscar.avif",
+            "alias": "@actually"
+        },
+        "Ryan Howard": {
+            "image": "assets/characters/ryan.avif",
+            "alias": "@wuphftothemoon"
+        },
+        "Andy Bernard": {
+            "image": "assets/characters/andy-bernard.avif",
+            "alias": "@narddog"
+        },
+        "Stanley Hudson": {
+            "image": "assets/characters/stanley.avif",
+            "alias": "@freepretzels"
+        },
+        "Erin Hannon": {
+            "image": "assets/characters/erin.avif",
+            "alias": "@hmmmmm"
+        },
+        "Ross Geller": {
+            "image": "assets/characters/ross.avif",
+            "alias": "@dinosaur"
+        },
+        "Chandler Bing": {
+            "image": "assets/characters/chandler.avif",
+            "alias": "@yemenyemen"
+        },
+        "Joey Tribbiani": {
+            "image": "assets/characters/joey.avif",
+            "alias": "@howudoin"
+        },
+        "Phoebe Buffay": {
+            "image": "assets/characters/phoebe.avif",
+            "alias": "@smellycat"
+        },
+        "Rachel Green": {
+            "image": "assets/characters/rachel.avif",
+            "alias": "@backpacking"
+        },
+        "Monica Geller": {
+            "image": "assets/characters/monica.avif",
+            "alias": "@cleaningismypassion"
+        },
+        "Phil Dunphy": {
+            "image": "assets/characters/phil.avif",
+            "alias": "@clivebixby"
+        },
+        "Claire Dunphy": {
+            "image": "assets/characters/claire.avif",
+            "alias": "@coaldigger"
+        },
+        "Alex Dunphy": {
+            "image": "assets/characters/alex.avif",
+            "alias": "@cliveBixby"
+        },
+        "Luke Dunphy": {
+            "image": "assets/characters/luke.avif",
+            "alias": "dork2dork"
+        },
+        "Gloria Delgado-Pritchett": {
+            "image": "assets/characters/gloria.avif",
+            "alias": "@taktaktakataka"
+        },
+        "Creed Bratton": {
+            "image": "assets/characters/creed.avif",
+            "alias": "@quabityassuance"
+        },
+        "Kevin Malone": {
+            "image": "assets/characters/kevin.avif",
+            "alias": "@theRealAshtonKutcher"
+        },
+        "Jay Pritchett": {
+            "image": "assets/characters/jay.avif",
+            "alias": "@closets"
+        },
+        "Manny Delgado": {
+            "image": "assets/characters/manny.avif",
+            "alias": "@ilostmychildhood"
+        },
+        "Cameron Tucker": {
+            "image": "assets/characters/cam.avif",
+            "alias": "@ilovedrama2"
+        },
+        "Mitchell Pritchett": {
+            "image": "assets/characters/mitchell.avif",
+            "alias": "@shaaameeeee"
+        },
+        "Haley Dunphy": {
+            "image": "assets/characters/haley.avif",
+            "alias": "@ilovedrama3"
+        },
+        "Lily Tucker-Pritchett": {
+            "image": "assets/characters/lily.avif",
+            "alias": "@heyyouchoseeme"
+        },
+        "Joe Fulgencio Pritchett": {
+            "image": "assets/characters/joe.avif",
+            "alias": "@iloveclaire"
+        },
+        "Ron Swanson": {
+            "image": "assets/characters/ron.avif",
+            "alias": "@steakandwhiskey"
+        },
+        "Andy Dwyer": {
+            "image": "assets/characters/andy.avif",
+            "alias": "@mouserat"
+        },
+        "April Ludgate": {
+            "image": "assets/characters/april.avif",
+            "alias": "@ihateyou"
+        },
+        "Leslie Knope": {
+            "image": "assets/characters/leslie.avif",
+            "alias": "@joebiden"
+        },
+        "Sheldon Cooper": {
+            "image": "assets/characters/sheldon.avif",
+            "alias": "@sheldor"
+        },
+        "Leonard Hofstadter": {
+            "image": "assets/characters/leonard.avif",
+            "alias": "@lenNerd"
+        },
+        "Amy Farrah Fowler": {
+            "image": "assets/characters/amy.avif",
+            "alias": "@pennyismybestfriend"
+        },
+        "Rajesh Koothrappali": {
+            "image": "assets/characters/raj.avif",
+            "alias": "@ihateneil"
+        },
+        "Bernadette Rostenkowski": {
+            "image": "assets/characters/bernadette.avif",
+            "alias": "@imakemoremoney"
+        },
+        "Penny": {
+            "image": "assets/characters/penny.avif",
+            "alias": "@serialapeist"
+        },
+        "Howard Wolowitz": {
+            "image": "assets/characters/howard.avif",
+            "alias": "@frootloops"
+        },
+        "Mary Cooper": {
+            "image": "assets/characters/mary.avif",
+            "alias": "@ilovejesus"
+        }
+    }
+}

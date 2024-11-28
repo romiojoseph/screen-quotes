@@ -1,0 +1,79 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Quotes from your favorite shows</title>
+    <meta name="description"
+        content="Discover and share your favorite quotes from iconic TV shows like The Office, Friends, Modern Family, Parks and Recreation, and The Big Bang Theory.">
+    <meta property="og:image" content="assets/social-image.png">
+    <link rel="icon" type="image/svg+xml" href="assets/favicon.svg">
+
+    <meta property="og:title" content="Quotes from your favorite shows">
+    <meta property="og:description"
+        content="Discover and share your favorite quotes from iconic TV shows like The Office, Friends, Modern Family, Parks and Recreation, and The Big Bang Theory.">
+    <meta property="og:image" content="assets/social-image.png">
+    <meta property="og:url" content="">
+    <meta property="og:type" content="website">
+
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link
+        href="https://fonts.googleapis.com/css2?family=Inter:ital,opsz,wght@0,14..32,100..900;1,14..32,100..900&family=Roboto+Slab:wght@100..900&display=swap"
+        rel="stylesheet">
+
+    <link rel="stylesheet" type="text/css" href="https://unpkg.com/@phosphor-icons/web@2.1.1/src/duotone/style.css" />
+
+    <link rel="stylesheet" href="styles.css">
+    <meta name="robots" content="index, follow">
+</head>
+
+<body>
+
+    <div class="hero-section">
+        <div class="quote-box">
+            <p id="initial-quote"></p>
+        </div>
+    </div>
+
+    <main class="feed-section">
+        <div class="controls sticky">
+            <select id="feed-show-select" aria-label="select-tv-show">
+                <option value="office">The Office</option>
+                <option value="modern-family">Modern Family</option>
+                <option value="friends">Friends</option>
+                <option value="parks-and-recreation">Parks and Recreation</option>
+                <option value="the-big-bang-theory">The Big Bang Theory</option>
+                <!-- Add more options as needed -->
+            </select>
+            <select id="filter" aria-label="select-character">
+                <option value="">Filter by character</option>
+            </select>
+            <input type="text" id="search" placeholder="Search for a quote...">
+        </div>
+        <div id="quote-feed"></div>
+    </main>
+
+    <footer>
+        <div id="footer">
+            <div class="logo">Quotes from your favorite shows</div>
+            <p class="footnote">I built this with a different project in mind. It's still in the testing phase, but it
+                works, so I’m hosting it here for anyone looking for quotes. All quotes are sourced from the internet.
+                Many people have already created JSONs and APIs for it. Due to the large volume, I haven’t cross-checked
+                them or verified their accuracy. If you find any issues, please leave a comment on GitHub. If you have
+                JSON files with quotes from other shows, feel free to share them on GitHub. I originally planned for
+                broader coverage, but sourcing everything is time-consuming. For now, I’m pausing it. I hope someone
+                finds it useful or builds something better from
+                it.</p>
+            <button class="contribute" type="button"
+                onclick="window.open('https://github.com/romiojoseph/screen-quotes', '_blank')">
+                Contribute
+            </button>
+        </div>
+    </footer>
+
+    <script src="script.js"></script>
+</body>
+
+</html>
